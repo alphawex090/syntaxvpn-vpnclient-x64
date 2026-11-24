@@ -53,7 +53,7 @@ The application focuses on simplicity, functionality, and a clean user experienc
 
 The latest version of SyntaxVPN is available in the GitHub Releases section.
 
-**[Download SyntaxVPN](YOUR_GITHUB_RELEASES_LINK)**
+**[Download SyntaxVPN] (https://github.com/alphawex090/syntaxvpn-vpnclient-x64/releases/tag/v1.1.0))**
 
 ### Installation
 
